@@ -1,5 +1,4 @@
 jupyter nbconvert --to notebook --execute --inplace --ExecutePreprocessor.timeout=600 BTC.ipynb
-jupyter nbconvert --to notebook --execute --inplace --ExecutePreprocessor.timeout=600 BTC.ipynb
 jupyter nbconvert --to notebook --execute --inplace --ExecutePreprocessor.timeout=600 BTS.ipynb
 jupyter nbconvert --to notebook --execute --inplace --ExecutePreprocessor.timeout=600 DASH.ipynb
 jupyter nbconvert --to notebook --execute --inplace --ExecutePreprocessor.timeout=600 DOGE.ipynb
