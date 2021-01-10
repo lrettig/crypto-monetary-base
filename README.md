@@ -1,6 +1,6 @@
-# Crypto Monetary Base
+# SMH Monetary Base
 
-Expected cryptocurrency supply distributions.
+Expected Spacemesh cryptocurrency supply distribution, relative to many other cryptocurrencies.
 
 See [agalea91/crypto-monetary-base](https://github.com/agalea91/crypto-monetary-base) for background info.
 
