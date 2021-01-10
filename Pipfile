@@ -18,6 +18,7 @@ vega-datasets = "*"
 notebook = "*"
 vega = "*"
 altair-saver = "*"
+selenium = "*"
 
 [dev-packages]
 
