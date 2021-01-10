@@ -15,6 +15,12 @@ Install these packages using `apt` as they are required by the `canvas` npm pack
 
 `sudo apt-get install build-essential libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev libpixman-1-dev libjpeg62-turbo-dev`
 
+You should also install the `pipenv` package if you don't have it already:
+
+`sudo apt-get install pipenv`
+
+(Note that installing pipenv may require a recent g++ pipeline, such as `g++-8` (apt)/`gcc@8` (brew) or newer.)
+
 ## Running
 
 First, run `npm install`. Then use `pipenv`:
