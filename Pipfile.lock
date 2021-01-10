@@ -1,11 +1,11 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "1b06d0c7d79f81d0551aa3debd2937615adf1242489288a487f4c213f845d4ba"
+            "sha256": "cc2f23817d6bb8074e19ef3ce883e9e1df251264b604fbd3583c9cf14575459d"
         },
         "pipfile-spec": 6,
         "requires": {
-            "python_version": "3.9"
+            "python_version": "3.8"
         },
         "sources": [
             {
@@ -566,7 +566,6 @@
                 "sha256:4b41f3967fce3af57cc7e94b888626c18bf37a083e3651ca8feeb66d492fef35",
                 "sha256:5c5d0a3b48ceee0b48485e0c26037c0acd7d29765ca3fbb5cb3831d347423220"
             ],
-            "markers": "os_name != 'nt'",
             "version": "==0.7.0"
         },
         "pycparser": {
@@ -819,11 +818,7 @@
             "version": "==0.9.0"
         },
         "version-information": {
-            "hashes": [
-                "sha256:811b9cea4b376aa62a77dc729a937ce8e2844573b8686b5c1840147054fb938d"
-            ],
-            "index": "pypi",
-            "version": "==1.0.3"
+            "git": "https://github.com/ahmedsalhin/version_information"
         },
         "wcwidth": {
             "hashes": [
