@@ -18,11 +18,12 @@ notebook = "*"
 vega = "*"
 altair-saver = "*"
 selenium = "*"
+appnope = "*"
 
 [dev-packages]
 
 [requires]
 python_version = "3.8"
 
-[packages.version_information]
-git = "https://github.com/ahmedsalhin/version_information"
+[packages]
+version_information = {git = "https://github.com/ahmedsalhin/version_information"}
